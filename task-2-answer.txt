@@ -1,0 +1,13 @@
+The test is not valid per requirements
+The issue is that we do not validate the values - the name of the first profile and the second profile as well!
+
+Requirements:
+```
+It is supposed to check whether skipping first profile results in displaying the second one in the
+discover list
+```
+
+Note: The test is still validating
+1. Swiping
+2. skipping is working
+3. profile appear after swipe/skip

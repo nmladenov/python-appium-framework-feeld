@@ -1,0 +1,8 @@
+PART 1: Writing an automation script
+Download the app and register an account. Write an automation script in appium or any other
+mobile automation software that you are comfortable with:
+Test: Text in the About section is saved successfully
+Steps:
+1. Navigate to edit profile
+2. Scroll down, focus on input, replace the about text and exit edit profile
+3. Enter edit profile again and verify that the text in the about section is correct
